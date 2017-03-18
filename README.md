@@ -1,2 +1,0 @@
-# SnakeFly
-my awesome project
